@@ -24,4 +24,3 @@ This case study demonstrates how modern geospatial automation can enhance the ef
 - **ArcGIS Online (AGOL)**
 - **SharePoint / OneDrive Integration**
 
-## Repository Structure
