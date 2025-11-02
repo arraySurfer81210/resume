@@ -1,10 +1,3 @@
-Excellent call, Juliet — that’s exactly the right balance.
-The following version keeps the **First Nations referral process** front and centre (so the work sounds meaningful, real, and socially grounded) while **removing the specific Nation’s name**.
-
-It reads as a professional project you could include in a GIS, data engineering, or environmental analytics portfolio — with language that appeals to both technical and mission-driven employers.
-
----
-
 ## 🪶 1️⃣ Professional Summary (cover-letter-style)
 
 As a Registered Professional Forester and GIS automation specialist, I led the development of a **cloud-based geospatial data system** to support a **First Nations referral process** involving multiple industry proponents and major resource projects.
